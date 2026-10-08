@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "agents": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "agents/SKILL.md",
+      "computedHash": "028e3db591a93c401ef21aec3d8d1e02efbfbd22b8915b21a0f561fa286e8bee"
+    },
+    "dubbing": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "dubbing/SKILL.md",
+      "computedHash": "4bb155a789dd86a167a3aca522e1d465897ee8f0235b5a1f1faf4c9349386286"
+    },
+    "music": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "music/SKILL.md",
+      "computedHash": "cb47292bef57354c45a348c0aaced97624eec9ddb65a8ed3d236a3cf103f95b6"
+    },
+    "sound-effects": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "sound-effects/SKILL.md",
+      "computedHash": "f76a229156eaa302d0e64159f56055ce733ecf19da768398a6c5b1991ac1d940"
+    },
+    "speech-engine": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "speech-engine/SKILL.md",
+      "computedHash": "4f0f1d8b4aa40d4c631d2295f7d3359cbe7f8a69b329fedd62799b6fda91b145"
+    },
+    "speech-to-text": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "speech-to-text/SKILL.md",
+      "computedHash": "672fb4019cf8a669f746cd0eaa4e6004028ad9322fb072c10aec34d5b97af754"
+    },
+    "text-to-speech": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "text-to-speech/SKILL.md",
+      "computedHash": "d83eccdb3e9f959fd29accebf14a01d622b9681a74ddba0f4f197c04c2555d8a"
+    },
+    "voice-changer": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "voice-changer/SKILL.md",
+      "computedHash": "50d7d166266c3b640ad35d4f2f4096d22b8e3c9670b7edd36aeb8f36f90e01b9"
+    },
+    "voice-isolator": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "voice-isolator/SKILL.md",
+      "computedHash": "6538d412211d292384376ac7e3f6e7c1b38ff72d82c6e7b8ce861afc684c7bc0"
+    }
+  }
+}
